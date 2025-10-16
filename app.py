@@ -8,4 +8,4 @@ print(c-d)
 
 e=4
 f=1
-print(e*f)
+print(e/f)
